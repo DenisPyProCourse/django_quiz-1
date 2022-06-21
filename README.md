@@ -1,3 +1,5 @@
+[![Django CI](https://github.com/python-hillel/django_quiz/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/python-hillel/django_quiz/actions/workflows/action.yml)
+
 # Django QUIZ
 
 ## Технические требования  
